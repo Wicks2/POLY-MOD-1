@@ -76,11 +76,7 @@ npx hardhat run scripts/approveDeposit.js --network goerli
 
 ## Author
 
-Sangam Kumar - Chandigarh University
-
-## Video Walkthrough
-
-https://www.loom.com/share/9eac62de25eb41ccb353ef93cd0347d0?sid=d77e021d-bc7e-4ff9-b26f-bad8632c3abc
+Abhay Partap Singh Rana
 
 ## License
 
